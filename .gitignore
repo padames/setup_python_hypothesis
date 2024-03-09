@@ -1,0 +1,4 @@
+*.pyc
+/venvs
+.hypothesis
+src/*.pyc
